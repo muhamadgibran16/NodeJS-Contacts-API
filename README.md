@@ -1,3 +1,3 @@
 # NodeJS-Contacts-API
 
-ILT-CC-02-AI JavaScript for Server-Side Development
+ILT-CC-02-AI JavaScript for Server-Side Development - Bangkit Academy
